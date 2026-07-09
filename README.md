@@ -41,9 +41,8 @@ Sou um estudante de tecnologia focado em construir soluções eficientes. Gosto 
 ## 📈 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iluvdrwy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do Andrey" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iluvdrwy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iluvdrwy&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;cache_seconds=86400" alt="Estatísticas do Andrey" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iluvdrwy&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
 </div>
 
 
