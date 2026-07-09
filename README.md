@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="banner.png" alt="Banner Andrey" width="100%" />
-</div>
 
 <br/>
 
