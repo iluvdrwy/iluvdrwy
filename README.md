@@ -27,6 +27,7 @@ Sou um estudante de tecnologia focado em construir soluções eficientes. Gosto 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
+  <!-- Front-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -34,9 +35,10 @@ Sou um estudante de tecnologia focado em construir soluções eficientes. Gosto 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  
+ 
 </div>
-
-<br/>
 
 ## 📈 Minhas Estatísticas
 
@@ -46,4 +48,32 @@ Sou um estudante de tecnologia focado em construir soluções eficientes. Gosto 
 </div>
 
 
+<br/>
 
+## 🚀 Projetos em Destaque
+
+*Em breve adicionarei links diretos para os meus melhores projetos aqui!*
+<!-- Dica: Aqui você pode colocar links para repositórios específicos mostrando suas análises de dados, dashboards ou configurações de infraestrutura -->
+
+<br/>
+
+## 📫 Como me encontrar
+
+<div align="left">
+  <a href="mailto:andrey.amancio16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/andrey-amancio-3b25a6248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="iluvdrwy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iluvdrwy&color=7C3AED&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Contador de Visitas" />
+</div>
