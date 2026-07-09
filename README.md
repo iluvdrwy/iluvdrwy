@@ -74,6 +74,3 @@ Sou um estudante de tecnologia focado em construir soluções eficientes. Gosto 
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iluvdrwy&color=7C3AED&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Contador de Visitas" />
-</div>
