@@ -1,5 +1,11 @@
 ## Olá, me chamo Andrey!!!
 
+<div align="center">
+  <img src="github.gif" alt="Banner Andrey" width="100%" />
+</div>
+
+<br/>
+
 - 🌱 Estudando JavaScript e TypeScript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iluvdrwy&show_icons=true&theme=dark)
