@@ -20,7 +20,6 @@
 Sou um estudante de tecnologia focado em construir soluções eficientes. Gosto de transitar por diferentes áreas da computação para ter uma visão mais ampla do desenvolvimento.
 
 * 🚀 Focado atualmente no ecossistema web com **JavaScript** e **TypeScript**.
-* 📊 Experiência prática com análise de dados (Power BI) e Machine Learning.
 * 🌐 Conhecimentos em infraestrutura e configuração de redes.
 * 🎮 Quando não estou codando, provavelmente estou em alguma ranqueada de CS2 ou Valorant.
 
